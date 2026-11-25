@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itz-roshan/EstateIQ">GitHub Repository</a> •
+  <a href="https://github.com/Omveer1774/EstateIQ">GitHub Repository</a> •
   <a href="#-features">Features</a> •
   <a href="#-installation--setup">Installation</a> •
   <a href="#-project-structure">Project Structure</a>
@@ -142,7 +142,7 @@ EstateIQ/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/itz-roshan/EstateIQ.git
+git clone https://github.com/Omveer1774/EstateIQ.git
 ```
 
 ### Step 2: Navigate to the Project Folder
@@ -214,7 +214,7 @@ http://localhost:8501
 
 ## 👨‍💻 Developer
 
-**Roshan Kumar**
+**Omveer Gangwar**
 
 Master of Computer Applications (MCA)  
 Invertis University, Bareilly, Uttar Pradesh
@@ -222,8 +222,8 @@ Invertis University, Bareilly, Uttar Pradesh
 Interested in Data Analytics, Machine Learning, Deep Learning, and AI-powered applications.
 
 <p align="center">
-  <a href="https://github.com/itz-roshan">
-    <img src="https://img.shields.io/badge/GitHub-itz--roshan-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Omveer1774">
+    <img src="https://img.shields.io/badge/GitHub-Omveer1774-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
